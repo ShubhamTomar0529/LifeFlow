@@ -73,6 +73,6 @@ Ensure you have the following installed locally:
 
 Access the Swagger UI for API documentation at:
 
-- `http://localhost:5000/api/doc`
+- `https://lifeflow-backend-z9b4.onrender.com/api/doc`
 
 This interface provides a detailed view of available endpoints and their usage.

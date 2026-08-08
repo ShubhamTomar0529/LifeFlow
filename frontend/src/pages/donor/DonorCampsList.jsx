@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 
 // NOTE: Ensure this URL matches your running backend API endpoint
-const API_BASE_URL = "http://localhost:5000/api";
+const API_BASE_URL = "https://lifeflow-backend-z9b4.onrender.com/api";
 
 const STATUS_OPTIONS = [
   { value: "all", label: "All Camps" },
